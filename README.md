@@ -4,7 +4,7 @@ Its a simple console game, where you command tank.
 Game target is survive and destroy all other tanks.
 Program created with used OOP and patterns(Composite, Prototype and Singleton).
 
-##Game control
+## Game control
 W - tank moves up
 A - tank moves left
 S - tank moves down
