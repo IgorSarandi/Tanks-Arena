@@ -2,7 +2,7 @@
 
 Its a simple console game, where you command tank.
 Game target is survive and destroy all other tanks.
-Program created with used OOP and patterns(Composite, Prototype and Singleton).
+Program created with used OOP and patterns.
 
 ## Game control
 * W - tank moves up
